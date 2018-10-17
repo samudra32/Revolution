@@ -1,0 +1,17 @@
+<?php
+
+( // blok segitiga
+			$alas = 6;
+				$tinggi = 8;
+
+		$luas_segitiga = 1/2 * $alas * $tinggi;
+)
+
+
+( // blok persegi panjang
+		$panjang = 2;
+		$Lebar = 4;
+
+	echo "Luas Segitiga dengan alas : $alas, dan tinggi $tinggi <br>";
+				echo "yaitu $luas_segitiga";
+?>

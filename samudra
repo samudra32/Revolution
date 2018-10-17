@@ -1,0 +1,5 @@
+<?php
+cont NAMA ="pak samudra";
+NAMA ="pak ambari";
+echo NAMA;
+?>
